@@ -1,22 +1,62 @@
-﻿// Create a list of vehicle brands in the Shaygan Motors inventory
-List<string> brands = new List<string> { "BMW", "Mercedes", "Audi", "Porsche", "Volvo", "Range Rover" };
+﻿using System;
 
-Console.WriteLine("=== VEHICLE BRANDS IN STOCK ===");
+Console.Write("Enter vehicle price: ");
+double price = double.Parse(Console.ReadLine() ?? "0");
 
-// Loop through and print each one with a number
-for (int i = 0; i < brands.Count; i++)
+Console.Write("Enter vehicle year: ");
+int year = int.Parse(Console.ReadLine() ?? "0");
+
+Console.Write("Enter fuel type (Gasoline/Diesel/Hybrid): ");
+string fuelType = Console.ReadLine() ?? "";
+
+// Determine price segment
+string segment;
+if (price <= 3000000)
 {
-    Console.WriteLine($"{i + 1}. {brands[i]}");
+    segment = "Economy";
+}
+else if (price <= 5000000)
+{
+    segment = "Mid-Range";
+}
+else if (price <= 7000000)
+{
+    segment = "Premium";
+}
+else
+{
+    segment = "Luxury";
 }
 
-Console.WriteLine($"\nTotal brands: {brands.Count}");
-
-// Add a new brand
-brands.Add("Tesla");
-Console.WriteLine($"\nAfter adding Tesla, total: {brands.Count}");
-
-// Check if a brand exists
-if (brands.Contains("Audi"))
+// Determine vehicle condition based on year
+string condition;
+if (year >= 2024 && year <= 2026)
 {
-    Console.WriteLine("Audi is in stock.");
+    condition = "Like new";
 }
+else if (year >= 2021 && year <= 2023)
+{
+    condition = "Lightly used";
+}
+else if (year >= 2018 && year <= 2020)
+{
+    condition = "Moderately used";
+}
+else
+{
+    condition = "Older model";
+}
+
+// Environmental impact message using switch
+string impact = fuelType switch
+{
+    "Gasoline" => "Moderate emissions",
+    "Diesel" => "High torque, drive carefully",
+    "Hybrid" => "Low emissions, eco-friendly",
+    _ => "Unknown fuel type"
+};
+
+Console.WriteLine("\n=== CLASSIFICATION RESULT ===");
+Console.WriteLine($"Price Segment: {segment}");
+Console.WriteLine($"Condition: {condition}");
+Console.WriteLine($"Environmental Impact: {impact}");
