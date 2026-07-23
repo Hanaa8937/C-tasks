@@ -1,0 +1,15 @@
+/workspaces/C-tasks/Task16/bin/Debug/net10.0/Task16
+/workspaces/C-tasks/Task16/bin/Debug/net10.0/Task16.deps.json
+/workspaces/C-tasks/Task16/bin/Debug/net10.0/Task16.runtimeconfig.json
+/workspaces/C-tasks/Task16/bin/Debug/net10.0/Task16.dll
+/workspaces/C-tasks/Task16/bin/Debug/net10.0/Task16.pdb
+/workspaces/C-tasks/Task16/obj/Debug/net10.0/Task16.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-tasks/Task16/obj/Debug/net10.0/Task16.AssemblyInfoInputs.cache
+/workspaces/C-tasks/Task16/obj/Debug/net10.0/Task16.AssemblyInfo.cs
+/workspaces/C-tasks/Task16/obj/Debug/net10.0/Task16.csproj.CoreCompileInputs.cache
+/workspaces/C-tasks/Task16/obj/Debug/net10.0/Task16.sourcelink.json
+/workspaces/C-tasks/Task16/obj/Debug/net10.0/Task16.dll
+/workspaces/C-tasks/Task16/obj/Debug/net10.0/refint/Task16.dll
+/workspaces/C-tasks/Task16/obj/Debug/net10.0/Task16.pdb
+/workspaces/C-tasks/Task16/obj/Debug/net10.0/Task16.genruntimeconfig.cache
+/workspaces/C-tasks/Task16/obj/Debug/net10.0/ref/Task16.dll
