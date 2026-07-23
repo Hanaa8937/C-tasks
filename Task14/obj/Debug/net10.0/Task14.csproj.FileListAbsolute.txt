@@ -1,0 +1,15 @@
+/workspaces/C-tasks/Task14/bin/Debug/net10.0/Task14
+/workspaces/C-tasks/Task14/bin/Debug/net10.0/Task14.deps.json
+/workspaces/C-tasks/Task14/bin/Debug/net10.0/Task14.runtimeconfig.json
+/workspaces/C-tasks/Task14/bin/Debug/net10.0/Task14.dll
+/workspaces/C-tasks/Task14/bin/Debug/net10.0/Task14.pdb
+/workspaces/C-tasks/Task14/obj/Debug/net10.0/Task14.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-tasks/Task14/obj/Debug/net10.0/Task14.AssemblyInfoInputs.cache
+/workspaces/C-tasks/Task14/obj/Debug/net10.0/Task14.AssemblyInfo.cs
+/workspaces/C-tasks/Task14/obj/Debug/net10.0/Task14.csproj.CoreCompileInputs.cache
+/workspaces/C-tasks/Task14/obj/Debug/net10.0/Task14.sourcelink.json
+/workspaces/C-tasks/Task14/obj/Debug/net10.0/Task14.dll
+/workspaces/C-tasks/Task14/obj/Debug/net10.0/refint/Task14.dll
+/workspaces/C-tasks/Task14/obj/Debug/net10.0/Task14.pdb
+/workspaces/C-tasks/Task14/obj/Debug/net10.0/Task14.genruntimeconfig.cache
+/workspaces/C-tasks/Task14/obj/Debug/net10.0/ref/Task14.dll

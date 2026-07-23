@@ -1,0 +1,28 @@
+{
+  "vehicles": [
+    {
+      "Id": "bmw-x5",
+      "Brand": "BMW",
+      "Model": "X5",
+      "Year": 2022,
+      "BodyType": 1,
+      "FuelType": 0,
+      "Status": 1,
+      "Price": 5850000,
+      "Mileage": 31000,
+      "CreatedAt": "2026-07-01T00:00:00"
+    },
+    {
+      "Id": "mercedes-e200",
+      "Brand": "Mercedes",
+      "Model": "E200",
+      "Year": 2021,
+      "BodyType": 0,
+      "FuelType": 2,
+      "Status": 1,
+      "Price": 4420000,
+      "Mileage": 42000,
+      "CreatedAt": "2026-07-01T00:00:00"
+    }
+  ]
+}
