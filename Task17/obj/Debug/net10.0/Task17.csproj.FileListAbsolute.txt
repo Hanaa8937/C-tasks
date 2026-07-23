@@ -1,0 +1,15 @@
+/workspaces/C-tasks/Task17/bin/Debug/net10.0/Task17
+/workspaces/C-tasks/Task17/bin/Debug/net10.0/Task17.deps.json
+/workspaces/C-tasks/Task17/bin/Debug/net10.0/Task17.runtimeconfig.json
+/workspaces/C-tasks/Task17/bin/Debug/net10.0/Task17.dll
+/workspaces/C-tasks/Task17/bin/Debug/net10.0/Task17.pdb
+/workspaces/C-tasks/Task17/obj/Debug/net10.0/Task17.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-tasks/Task17/obj/Debug/net10.0/Task17.AssemblyInfoInputs.cache
+/workspaces/C-tasks/Task17/obj/Debug/net10.0/Task17.AssemblyInfo.cs
+/workspaces/C-tasks/Task17/obj/Debug/net10.0/Task17.csproj.CoreCompileInputs.cache
+/workspaces/C-tasks/Task17/obj/Debug/net10.0/Task17.sourcelink.json
+/workspaces/C-tasks/Task17/obj/Debug/net10.0/Task17.dll
+/workspaces/C-tasks/Task17/obj/Debug/net10.0/refint/Task17.dll
+/workspaces/C-tasks/Task17/obj/Debug/net10.0/Task17.pdb
+/workspaces/C-tasks/Task17/obj/Debug/net10.0/Task17.genruntimeconfig.cache
+/workspaces/C-tasks/Task17/obj/Debug/net10.0/ref/Task17.dll
