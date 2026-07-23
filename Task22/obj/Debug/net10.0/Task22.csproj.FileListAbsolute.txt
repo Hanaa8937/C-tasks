@@ -1,0 +1,15 @@
+/workspaces/C-tasks/Task22/bin/Debug/net10.0/Task22
+/workspaces/C-tasks/Task22/bin/Debug/net10.0/Task22.deps.json
+/workspaces/C-tasks/Task22/bin/Debug/net10.0/Task22.runtimeconfig.json
+/workspaces/C-tasks/Task22/bin/Debug/net10.0/Task22.dll
+/workspaces/C-tasks/Task22/bin/Debug/net10.0/Task22.pdb
+/workspaces/C-tasks/Task22/obj/Debug/net10.0/Task22.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-tasks/Task22/obj/Debug/net10.0/Task22.AssemblyInfoInputs.cache
+/workspaces/C-tasks/Task22/obj/Debug/net10.0/Task22.AssemblyInfo.cs
+/workspaces/C-tasks/Task22/obj/Debug/net10.0/Task22.csproj.CoreCompileInputs.cache
+/workspaces/C-tasks/Task22/obj/Debug/net10.0/Task22.sourcelink.json
+/workspaces/C-tasks/Task22/obj/Debug/net10.0/Task22.dll
+/workspaces/C-tasks/Task22/obj/Debug/net10.0/refint/Task22.dll
+/workspaces/C-tasks/Task22/obj/Debug/net10.0/Task22.pdb
+/workspaces/C-tasks/Task22/obj/Debug/net10.0/Task22.genruntimeconfig.cache
+/workspaces/C-tasks/Task22/obj/Debug/net10.0/ref/Task22.dll
