@@ -1,0 +1,10 @@
+[
+  {
+    "Id": "L-0001",
+    "Name": "mercedes-e200",
+    "Phone": "05551234567",
+    "InterestedVehicleId": "mercedes-e200",
+    "InterestedVehicle": null,
+    "Status": 0
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "Price": 5850000,
+    "Mileage": 31000,
+    "Id": "bmw-x5",
+    "Brand": "BMW",
+    "Model": "X5",
+    "Year": 2022,
+    "BodyType": 1,
+    "FuelType": 0,
+    "Hero": {
+      "Translations": {}
+    },
+    "Leads": [],
+    "Status": 1,
+    "CreatedAt": "2026-07-23T13:54:43.4001049+00:00"
+  },
+  {
+    "Price": 4420000,
+    "Mileage": 42000,
+    "Id": "mercedes-e200",
+    "Brand": "Mercedes",
+    "Model": "E200",
+    "Year": 2021,
+    "BodyType": 0,
+    "FuelType": 2,
+    "Hero": {
+      "Translations": {}
+    },
+    "Leads": [],
+    "Status": 1,
+    "CreatedAt": "2026-07-23T13:54:43.4001401+00:00"
+  },
+  {
+    "Price": 8900000,
+    "Mileage": 8000,
+    "Id": "porsche-911",
+    "Brand": "Porsche",
+    "Model": "911",
+    "Year": 2023,
+    "BodyType": 3,
+    "FuelType": 0,
+    "Hero": {
+      "Translations": {}
+    },
+    "Leads": [],
+    "Status": 1,
+    "CreatedAt": "2026-07-23T13:54:43.4001516+00:00"
+  },
+  {
+    "Price": 0,
+    "Mileage": 0,
+    "Id": "audi-0",
+    "Brand": "audi",
+    "Model": "0",
+    "Year": 2024,
+    "BodyType": 0,
+    "FuelType": 0,
+    "Hero": {
+      "Translations": {}
+    },
+    "Leads": [],
+    "Status": 1,
+    "CreatedAt": "2026-07-23T13:54:43.3956263+00:00"
+  }
+]
