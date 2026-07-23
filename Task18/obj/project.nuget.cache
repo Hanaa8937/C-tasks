@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "z4tCfLb3Qjg=",
+  "success": true,
+  "projectFilePath": "/workspaces/C-tasks/Task18/Task18.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.10/microsoft.extensions.dependencyinjection.10.0.10.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.10/microsoft.extensions.dependencyinjection.abstractions.10.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

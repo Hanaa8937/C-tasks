@@ -1,0 +1,17 @@
+[
+  {
+    "Price": 4420000,
+    "Mileage": 42000,
+    "Id": "mercedes-e200",
+    "Brand": "Mercedes",
+    "Model": "E200",
+    "Year": 2021,
+    "BodyType": 0,
+    "FuelType": 2,
+    "Hero": {
+      "Translations": {}
+    },
+    "Status": 1,
+    "CreatedAt": "2026-07-23T10:42:51.3203391+00:00"
+  }
+]
