@@ -1,0 +1,18 @@
+[
+  {
+    "Price": 5850000,
+    "Mileage": 31000,
+    "Id": "bmw-x5",
+    "Brand": "BMW",
+    "Model": "X5",
+    "Year": 2022,
+    "BodyType": 1,
+    "FuelType": 0,
+    "Hero": {
+      "Translations": {}
+    },
+    "Leads": [],
+    "Status": 1,
+    "CreatedAt": "2026-07-23T12:54:41.5001918+00:00"
+  }
+]

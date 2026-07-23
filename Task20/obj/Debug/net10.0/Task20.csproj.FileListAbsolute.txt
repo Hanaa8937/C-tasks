@@ -1,0 +1,15 @@
+/workspaces/C-tasks/Task20/bin/Debug/net10.0/Task20
+/workspaces/C-tasks/Task20/bin/Debug/net10.0/Task20.deps.json
+/workspaces/C-tasks/Task20/bin/Debug/net10.0/Task20.runtimeconfig.json
+/workspaces/C-tasks/Task20/bin/Debug/net10.0/Task20.dll
+/workspaces/C-tasks/Task20/bin/Debug/net10.0/Task20.pdb
+/workspaces/C-tasks/Task20/obj/Debug/net10.0/Task20.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-tasks/Task20/obj/Debug/net10.0/Task20.AssemblyInfoInputs.cache
+/workspaces/C-tasks/Task20/obj/Debug/net10.0/Task20.AssemblyInfo.cs
+/workspaces/C-tasks/Task20/obj/Debug/net10.0/Task20.csproj.CoreCompileInputs.cache
+/workspaces/C-tasks/Task20/obj/Debug/net10.0/Task20.sourcelink.json
+/workspaces/C-tasks/Task20/obj/Debug/net10.0/Task20.dll
+/workspaces/C-tasks/Task20/obj/Debug/net10.0/refint/Task20.dll
+/workspaces/C-tasks/Task20/obj/Debug/net10.0/Task20.pdb
+/workspaces/C-tasks/Task20/obj/Debug/net10.0/Task20.genruntimeconfig.cache
+/workspaces/C-tasks/Task20/obj/Debug/net10.0/ref/Task20.dll
